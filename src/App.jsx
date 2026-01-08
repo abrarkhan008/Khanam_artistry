@@ -40,8 +40,8 @@ const MehendiWebsite = () => {
     hands: {
       title: "Non bridal design",
       price: "₹400-2500",
-      count: 36,
-      images: Array.from({ length: 36 }, (_, i) => `/hands/${i + 1}.png`),
+      count: 73,
+      images: Array.from({ length: 73 }, (_, i) => `/hands/${i + 1}.png`),
     },
   };
 
